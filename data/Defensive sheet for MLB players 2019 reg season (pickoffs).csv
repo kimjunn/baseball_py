@@ -1,0 +1,310 @@
+﻿date,team,pitcher,arm,from where,against,got whom,at where,direct,assister,assister pos,tagger,link,opinion,ocnt,ip
+2019-03-28,Giants,Madison Bumgarner,L,P,Padres,Fernando Tatis Jr.,2B,,Brandon Belt,1B,Brandon Crawford,,,,
+2019-03-28,Padres,Eric Lauer,L,P,Giants,Madison Bumgarner,1B,1,,,Eric Hosmer,,,,
+2019-03-30,Cubs,Jose Quintana,L,P,Rangers,Rougned Odor,1B,1,,,Anthony Rizzo,,,,
+2019-03-30,Mets,Noah Syndergaard,R,P,Nationals,Victor Robles,1B,1,,,Pete Alonso,,,,
+2019-04-01,Rangers,Adrian Sampson,R,P,Astros,Alex Bregman,1B,1,,,Ronald Guzman,,,,
+2019-04-02,BlueJays,Marcus Stroman,R,P,Orioles,Jonathan Villar,2B,1,,,Richard Urena,,great,,
+2019-04-02,Rays,Blake Snell,L,P,Rockies,Trevor Story,1B,,Yandy Diaz,1B,Willy Adames,,great,,
+2019-04-03,Phillies,JT Realmuto,R,C,Nationals,Wilmer Difo,2B,1,,,Jean Segura,,superb ds by real muto,,
+2019-04-03,Rangers,Mike Minor,L,P,Astros,George Springer,1B,,Ronald Guzman,1B,Elvis Andrus,,,,
+2019-04-04,Cubs,Wilson Contreras,R,C,Braves,Ozzie Albies,3B,,Kris Bryant,3B,Wilson Contreras,,,,
+2019-04-04,Orioles,Mychal Givens,R,P,Yankees,Gary Sacnhez,2B,1,,,Richie Martin,,great,,
+2019-04-05,Pirates,Joe Musgrove,R,P,Reds,Jose Iglesias,2B,,Josh Bell;Erik Gonzalez;Francisco Cervelli,1B;SS;C,Adam Frazier,,,,
+2019-04-06,Orioles,Pedro Severino,R,C,Yankees,Gary Sacnhez,3B,1,,,Hanser Alberto,,,,
+2019-04-06,Rangers,Adrian Sampson,R,P,Angels,Brian Goodwin,2B,1,,,Rougned Odor,,,,
+2019-04-06,RedSox,Raisel Iglesias,R,P,Pirates,Pablo Reyes,1B,1,,,Joey Votto,,,,
+2019-04-07,Reds,Wandy Peralta,L,P,Pirates,Adam Frazier,2B,,Derek Dietrich,1B,Jose Iglesias,,,,
+2019-04-09,Reds,Luis Castillo,R,P,Marlins,Lewis Brinson,2B,,Joey Votto,1B,Jose Peraza,,Peraza's reaction was great,,
+2019-04-09,WhiteSox,Manny Banuelos,L,P,Rays,Tommy Pham,1B,1,,,Yonder Alonso,,great,,
+2019-04-10,Mariners,Zac Rosscup,L,P,Royals,Whit Merrifield,2B,,Edwin Encarnacion,1B,Dee Gordon,,,,
+2019-04-11,Cubs,Jose Quintana,L,P,Pirates,Josh Bell,1B,,Anthony Rizzo,1B,Javier Baez,,,,
+2019-04-12,Nationals,Patrick Corbin,L,P,Pirates,Sterling Marte,1B,,Ryan Zimmerman,1B,Brian Dozier,,,,
+2019-04-12,Rangers,Drew Smyly,L,P,Athletics,Marcus Semien,1B,,Patrick Wisdom,1B,Elvis Andrus,,,,
+2019-04-13,Braves,Touki Toussaint,R,P,Mets,Juan Lagares,2B,1,,,Dansby Swanson,,great,,
+2019-04-13,DBacks,Andrew Chapin,L,P,Padres,Will Myers,1B,,Christian Walker,1B,Ildemaro Vargas,,,,
+2019-04-13,Phillies,Zach Eflin,R,P,Marlins,Jorge Alfaro,1B,,Rhys Hoskins,1B,Jean Segura,,,,
+2019-04-15,Dodgers,Clayton Kershaw,L,P,Reds,Jose Peraza,1B,,Max Muncy,1B,Enrique Hernandez,,,,
+2019-04-15,Twins,Martin Perez,L,P,BlueJays,Teoscar Hernandez,1B,-,,,CJ Cron,,The batter Drury was confused the situation was ball four.,,
+2019-04-16,Angels,Jamie Barria,R,P,Rangers,Logan Forsythe,1B,1,,,Albert Pujols,,,,
+2019-04-16,DBacks,Robbie Ray,L,P,Braves,Dansby Swanson,1B,,Christian Walker,1B,Wilmer Flores,,,,
+2019-04-16,Marlins,Tyler Kinley,R,P,Cubs,David Bote,1B,1,,,Martin Prado,,,,
+2019-04-17,Dodgers,Walker Buehler,R,P,Reds,Jose Iglesias,1B,1,,,Cody Bellinger,,terrific,,
+2019-04-17,WhiteSox,Jose Ruiz,R,P,Royals,Terrance Gore,1B,,Jose Abreu,1B,Leury Garcia,,,,
+2019-04-18,Brewers,Zach Davies,R,P,Dodgers,Cody Bellinger,1B,,Jesus Aguilar,1B,Hernan Perez,,,,
+2019-04-18,Nationals,Patrick Corbin,L,P,Giants,Steven Duggar,1B,,Ryan Zimmerman,1B,Brian Dozier,,,,
+2019-04-18,Padres,Brad Wieck,L,P,Reds,Jose Iglesias,1B,,Eric Hosmer,1B,Luis Urias,,,,
+2019-04-19,Giants,Madison Bumgarner,L,P,Pirates,JB Shuck,1B,,Brandon Belt,1B,Brandon Crawford,,,,
+2019-04-20,Phillies,Aaron Nola,R,P,Rockies,David Dahl,1B,,Rhys Hoskins,1B,Cesar Hernandez,,,,
+2019-04-20,RedSox,Christian Vazquez,R,C,Rays,Tommy Pham,1B,1,,,Steve Pearce,,terrific;game ending,,
+2019-04-21,BlueJays,Aaron Sanchez,R,P,Athletics,Matt Chapman,2B,1,,,Freddy Galvis,,great,,
+2019-04-21,Rays,Tyler Glasnow,R,P,RedSox,Rafael Devers,2B,,Willy Adames;Daniel Robertson,SS;3B,Joey Wendle,,,,
+2019-04-22,WhiteSox,James McCann,R,C,Orioles,Renato Nunez,3B,1,,,Yoan Moncada,,great,,
+2019-04-23,Pirates,Francisco Cervelli,R,C,DBacks,Jarrod Dyson,1B,1,,,Josh Bell,,terrific,,
+2019-04-24,Pirates,Francisco Cervelli,R,C,DBacks,Wilmer Flores,2B,1,,,Cole Tucker,,terrific,,
+2019-04-26,Angels,Tyler Skaggs,L,P,Royals,Billy Hamilton,1B,,Albert Pujols,1B,Albert Pujols,,,,
+2019-04-26,Mariners,Justus Sheffield,L,P,Rangers,Hunter Pence,1B,,Edwin Encarnacion,1B,Dee Gordon,,,,
+2019-04-26,Nationals,Yan Gomes,R,C,Padres,Franmil Reyes,3B,1,,,Anthony Rendon,,terrific,,
+2019-04-26,Royals,Martin Maldonado,R,C,Angels,Luis Rengifo,3B,1,,,Chris Owings,,terrific,,
+2019-04-27,DBacks,JR Murphy,R,C,Cubs,Kyle Schwarber,2B,,,,Nick Ahmed,,,,
+2019-04-27,Phillies,Jake Arrieta,R,P,Marlins,Jon Berti,1B,1,,,Rhys Hoskins,,,,
+2019-04-27,Rays,Mike Zunino,R,C,RedSox,Rafael Devers,1B,1,,,Yandy Diaz,,good,,
+2019-04-28,BlueJays,Daniel Hudson,R,P,Athletics,Chad Pinder,1B,,Rowdy Tellez,1B,Brandon Drury,,,,
+2019-04-28,Cubs,Steve Cishek,R,P,DBacks,Ketel Marte,1B,1,,,Anthony Rizzo,,Terrifc,,
+2019-04-29,RedSox,Eduardo Rodriguez,L,P,Athletics,Marcus Semien,1B,,Michael Chavis,1B,Tzu-Wei Lin,,,,
+2019-04-30,DBacks,Zack Greinke,R,P,Yankees,Cameron Maybin,1B,,Christian Walker,1B,Eduardo Escobar,,,,
+2019-05-01,Braves,Max Fried,L,P,Padres,Ian Kinsler,1B,1,,,Freddie Freeman,,Terrific,,
+2019-05-01,Marlins,Caleb Smith,L,P,Indians,Jordan Luplow,1B,,Martin Prado,1B,Miguel Rojas,,,,
+2019-05-01,Rays,Jalen Beeks,L,P,Royals,Terrance Gore,2B,1,,,Yandy Diaz,,,,
+2019-05-02,Nationals,Yan Gomes,R,C,Cardinals,Matt Wieters,2B,1,,,Wilmer Difo,,,,
+2019-05-03,Cardinals,Giovanny Gallegos,R,P,Cubs,Anthony Rizzo,3B,,Paul Goldschmidt;Kolten Wong;Paul Goldschmidt,1B;2B;1B,Yadier Molina,,,,
+2019-05-03,Cubs,Kyle Hendricks,R,P,Cardinals,Harrison Bader,1B,,Anthony Rizzo;Javier Baez;Kyle Hendricks,1B;SS;P,Daniel Descalso,,,,
+2019-05-03,Tigers,Matthew Boyd,L,P,Royals,Billy Hamilton,1B,,Ronny Rodriguez,1B,Gordon Beckham,,,,
+2019-05-04,Indians,Carlos Carrasco,R,P,Mariners,Mitch Haniger,1B,1,,,Carlos Santana,,Terrific,,
+2019-05-04,Mets,Wilson Ramos,R,C,Brewers,Eric Thames,1B,1,,,Pete Alonso,,Terrific,,
+2019-05-04,Twins,Jake Odorizzi,R,P,Yankees,DJ LeMahieu,1B,1,,,CJ Cron,,,,
+2019-05-05,Indians,Kevin Plaweski,R,C,Mariners,Tim Beckham,2B,,Francisco Lindor,SS,Jose Ramirez,,,,
+2019-05-06,BlueJays,Marcus Stroman,R,P,Twins,Byron Buxton,2B,,,,Freddy Galvis,,Teeeerific,,
+2019-05-07,Indians,Jefry Rodriguez,R,P,WhiteSox,Yoan Moncada,1B,1,,,Carlos Santana,,Teeeerific,,
+2019-05-07,Padres,Cal Quantrill,R,P,Mets,Noah Syndergaard,2B,1,,,Manny Machado,,teeerific,,
+2019-05-07,Tigers,Daniel Norris,L,P,Angels,Brian Goodwin,1B,,Ronny Rodriguez,1B,Jordy Mercer,,,,
+2019-05-08,Athletics,Brett Anderson,L,P,Reds,Jose Peraza,1B,,Matt Olson,1B,Marcus Semien,,,,
+2019-05-08,DBacks,Archie Bradley,R,P,Rays,Tommy Pham,1B,1,,,Wilmer Flores,,,,
+2019-05-08,Mets,Tomas Nido,R,C,Padres,Manuel Margot,1B,1,,,Pete Alonso,,,,
+2019-05-09,Astros,Wade Miley,L,P,Rangers,Ronald Guzman,1B,1,,,Yuli Gurriel,,,,
+2019-05-10,DBacks,Carson Kelly,R,C,Braves,Ozzie Albies,1B,1,,,Christian Walker,,terrific,,
+2019-05-10,Phillies,Jose Alvarez,L,P,Royals,Adalberto Mondesi,1B,,Rhys Hoskins,1B,Jean Segura,,,,
+2019-05-11,Dodgers,Austin Barnes,R,C,Nationals,Victor Robles,2B,1,,,Enrique Hernandez,,terrific,,
+2019-05-13,Mariners,Yusei Kikuchi,L,P,Athletics,Mark Canha,1B,,Edwin Encarnacion,1B,JP Crawford,,,,
+2019-05-13,Tigers,Matthew Boyd,L,P,Astros,Robinson Chrinos,1B,,Niko Goodrum,1B,Josh Harrison,,,,
+2019-05-14,Giants,Stephen Vogt,R,C,BlueJays,Billy McKinney,3B,1,,,-,,McKinney was hit by the ball; interference called,,
+2019-05-15,Orioles,Paul Fry,L,P,Yankees,Brett Gardner,1B,,Renato Nunez,1B,Jonathan Villar,,,,
+2019-05-15,Twins,Jake Odorizzi,R,P,Angels,Brian Goodwin,1B,1,,,CJ Cron,,impressive relentless trials by Jake,,
+2019-05-18,BlueJays,Ryan Feierabend,L,P,Whitesox,Jose Abreu,1B,,Rowdy Tellez,1B,Freddy Galvis,,,,
+2019-05-18,DBacks,TJ McFarland,L,P,Giants,Joe Panik,1B,,Christian Walker,1B,Nick Ahmed,,,,
+2019-05-19,Astros,Wade Miley,L,P,RedSox,Rafael Devers,1B,1,,,Tyler White,,beautiful,,
+2019-05-19,Padres,Cal Quantrill,R,P,Pirates,Gregory Polanco,1B,1,,,Eric Hosmer,,hosmer's position was good,,
+2019-05-19,Pirates,Joe Musgrove,R,P,Padres,Will Myers,1B,1,,,Josh Bell,,quiiik,,
+2019-05-21,Pirates,Chris Stratton,R,P,Rockies,Charlie Blackmon,1B,,Josh Bell,1B,Cole Tucker,,,,
+2019-05-22,Pirates,Elias Diaz,R,C,Rockies,Brendan Rodgers,3B,1,,,Colin Moran,,,,
+2019-05-23,Phillies,Aaron Nola,R,P,Cubs,Jason Heyward,1B,1,,,Rhys Hoskins,,,,
+2019-05-24,Athletics,Yusmeiro Petit,R,P,Mariners,Mitch Haniger,1B,1,,,Matt Olson,https://twitter.com/MLBReplays/status/1132143232861855744,,,
+2019-05-24,BlueJays,Danny Jansen,R,C,Padres,Ian Kinsler,3B,,Vladimir Guerrero Jr;Danny Jansen;Vladimier Guerrero,3B;C;3B,Rowdy Tellez,,,,
+2019-05-24,Rays,Blake Snell,L,P,Indians,Leonys Martin,1B,,Ji-Man Choi,1B,Brandon Lowe,,,,
+2019-05-25,DBacks,Taylor Clarke,R,P,Giants,Steven Duggar,1B,1,,,Kevin Cron,,terrific,,
+2019-05-25,Mets,Wilson Ramos,R,C,Tigers,Gordon Beckham,1B,1,,,Dominic Smith,https://twitter.com/MLBReplays/status/1132441233694105602,goood,,
+2019-05-25,Phillies,JT Realmuto,R,C,Brewers,Yasmani Grandal,1B,1,,,Rhys Hoskins,,wow.,,
+2019-05-25,Rays,Charlie Morton,R,P,Indians,Francisco Lindor,1B,1,,,Ji-Man Choi,,quiiik,,
+2019-05-26,Cubs,Jose Quintana,L,P,Reds,Nick Senzel,1B,,Anthony Rizzo;Javier Baez;Anthony Rizzo,1B;SS;1B,-,,Descalso errored;hasn't been recorded,,
+2019-05-26,RedSox,Christian Vazquez,R,C,Astros,Carlos Correa,1B,1,,,Steve Pearce,https://twitter.com/search?q=from%3Amlbreplays%20correa&src=typed_query,wuh,,
+2019-05-27,WhiteSox,James McCann,R,C,Royals,Ryan O'Hearn,2B,1,,,Jose Rondon,,nice,,
+2019-05-28,BlueJays,Clayton Richard,L,P,Rays,Ji-Man Choi,1B,,Justin Smoak,1B,Brandon Drury,,,,
+2019-05-28,Braves,Max Fried,L,P,Nationals,Adam Eaton,1B,1,,,Freddie Freeman,,wow,,
+2019-05-28,Braves,Max Fried,L,P,Nationals,Trea Turner,2B,1,,,Ozzie Albies,,goood,,
+2019-05-28,Indians,Zach Plesac,R,P,RedSox,Christian Vazquez,1B,1,,,Jake Bauers,,terrific,,
+2019-05-28,Tigers,Matthew Boyd,L,P,Orioles,Jonathan Villar,1B,,Miguel Cabrera;Matthew Boyd;Gordon Beckham,1B;P;SS,Grayson Greiner,,,,
+2019-05-30,DBacks,TJ McFarland,L,P,Rockies,Trevor Story,1B,,Christian Walker,1B,Nick Ahmed,,,,
+2019-05-30,Phillies,Jerad Eickhoff,R,P,Cardinals,Paul Goldschmidt,2B,1,,,Cesar Hernandez,,good,,
+2019-05-30,Rangers,Mike Minor,L,P,Royals,Adalberto Mondesi,1B,1,,,Ronald Guzman,,smoooth;Guzman's tag good,,
+2019-05-31,Angels,Tyler Skaggs,L,P,Mariners,Dylan Moore,1B,,Jared Walsh;David Fletcher;Jared Walsh,1B;SS;1B,Luis Rengifo,,,,
+2019-05-31,Athletics,Mike Fiers,R,P,Astros,Yuli Gurriel,2B,1,,,Marcus Semien,,running cover,,
+2019-05-31,Giants,Derek Holland,L,P,Orioles,Hanser Alberto,1B,,Brandon Belt,1B,Brandon Crawford,,steal timing perfectly,,
+2019-05-31,Yankees,Gary Sanchez,R,C,RedSox,Eduardo Nunez,2B,1,,,Gleyber Torres,,Gleyber's reaction!,,
+2019-06-01,Indians,Jefry Rodriguez,R,P,WhiteSox,Yolmer Sanchez,2B,,Francisco Lindor,SS,Jose Ramirez,,Ramirez got out at first subsequently,,
+2019-06-02,Indians,Zach Plesac,R,P,WhiteSox,Tim Anderson,1B,1,,,Carlos Santana,,This guy's pickoff move is sick,,
+2019-06-04,Rangers,Drew Smyly,L,P,Orioles,Dwight Smith Jr.,1B,,Ronald Guzman,1B,Elvis Andrus,,,,
+2019-06-04,Tigers,Ryan Carpenter,L,P,Rays,Guillermo Heredia,1B,1,,,Brandon Dixon,,wuh,,
+2019-06-05,RedSox,Sandy Leon,R,C,Royals,Whit Merrifield,1B,1,,,Michael Chavis,,goood,,
+2019-06-06,Mariners,Roenis Elias,L,P,Astros,Derek Fisher,1B,1,,,Daniel Vogelbach,,wow,,
+2019-06-06,Tigers,Daniel Norris,L,P,Rays,Kevin Kiermaier,1B,,Ronny Rodriguez,1B,Niko Goodrum,,,,
+2019-06-07,BlueJays,Danny Jansen,R,C,DBacks,Christian Walker,1B,1,,,Cavan Biggio,,funny,,
+2019-06-07,Brewers,Brandon Woodruff,R,P,Pirates,Bryan Reynolds,2B,1,,,Orlando Arcia,,terrific,,
+2019-06-07,Cubs,Cole Hamels,L,P,Cardinals,Dexter Fowler,1B,1,,,Anthony Rizzo,,,,
+2019-06-07,Tigers,Matthew Boyd,L,P,Twins,Jorge Polanco,1B,,Brandon Dixon,1B,Niko Goodrum,,good,,
+2019-06-09,Angels,Jose Suarez,L,P,Mariners,Dylan Moore,1B,,Albert Pujols,1B,Wilfredo Tovar,,,,
+2019-06-09,Giants,Will Smith,L,P,Dodgers,Max Muncy,1B,,Pablo Sandoval,1B,Brandon Crawford,,,,
+2019-06-09,Mets,Noah Syndergaard,R,P,Rockies,Trevor Story,1B,1,,,Pete Alonso,https://twitter.com/MLBReplays/status/1137805863614369793,,,
+2019-06-09,Rangers,Drew Smyly,L,P,Athletics,Ramon Laureano,1B,,Ronald Guzman,1B,Rougned Odor,,ramon moved too early,,
+2019-06-09,Rays,Blake Snell,L,P,RedSox,Jackie Bradley Jr.,1B,,Brandon Lowe,1B,Willy Adames,,,,
+2019-06-10,Cardinals,Michael Wacha,R,P,Marlins,Jorge Alfaro,2B,1,,,Yairo Munoz,https://twitter.com/MLBReplays/status/1138249197709385730,,,
+2019-06-10,Dodgers,Hyun-Jin Ryu,L,P,Angels,Albert Pujols,1B,1,,,Enrique Hernandez,,great,,
+2019-06-10,Nationals,Anibal Sanchez,R,P,WhiteSox,James McCann,1B,1,,,Matt Adams,,good,,
+2019-06-11,BlueJays,Danny Jansen,R,C,Orioles,Jonathan Villar,2B,,Freddy Galvis,SS,Brandon Drury,,,,
+2019-06-11,Pirates,Chris Archer,R,P,Braves,Dansby Swanson,1B,,Josh Bell,1B,Adam Frazier,,,,
+2019-06-12,BlueJays,Edwin Jackson,R,P,Orioles,Keon Broxton,1B,,Justin Smoak;Freddy Galvis,1B;SS,Edwin Jackson,,,,
+2019-06-12,Brewers,Josh Hader,L,P,Astros,Myles Straw,1B,,Eric Thames,1B,Orlando Arcia,https://twitter.com/MLBReplays/status/1139027783076798464,Myles' speed was more impressive,,
+2019-06-12,Twins,Jose Berrios,R,P,Mariners,Domingo Santana,1B,,CJ Cron;Jorge Polanco,1B;SS,Jose Berrios,,terrific,,
+2019-06-15,Cubs,Brandon Kintzler,R,P,Dodgers,Enrique Hernandez,1B,1,,,Anthony Rizzo,,,,
+2019-06-15,Rockies,German Marquez,R,P,Padres,Ian Kinsler,1B,1,,,Mark Reynolds,https://twitter.com/MLBReplays/status/1115824783847981057,,,
+2019-06-16,Athletics,Liam Hendriks,R,P,Mariners,Dee Gordon,1B,1,,,Matt Olson,,,,
+2019-06-17,Mets,Wilson Ramos,R,C,Braves,Ronald Acuña Jr.,1B,1,,,Pete Alonso,,terrific,,
+2019-06-17,Royals,Brian Flynn,L,P,Mariners,Mac Williamson,1B,,Whit Merrifield,1B,Adalberto Mondesi,,,,
+2019-06-18,Cardinals,Jack Flaherty,R,P,Marlins,Harold Ramirez,1B,1,,,Paul Goldschmidt,,good,,
+2019-06-18,Dodgers,Clayton Kershaw,L,P,Giants,Donovan Solano,1B,,Matt Beaty;Max Muncy,1B;2B,Matt Beaty,,,,
+2019-06-18,RedSox,Christian Vazquez,R,C,Twins,Mitch Garver,3B,1,,,Rafael Devers,,,,
+2019-06-19,DBacks,Yoan Lopez,R,P,Rockies,Tony Wolters,1B,,Christian Walker,1B,Nick Ahmed,,,,
+2019-06-20,Marlins,Sergio Lomo,R,P,Cardinals,Jack Flaherty,2B,1,,,Yadiel Rivera,,sloppy running;good timing,,
+2019-06-21,Mets,Tomas Nido,R,C,Cubs,Albert Almora Jr.,1B,1,,,Pete Alonso,,terrific,,
+2019-06-21,WhiteSox,Jace Fry,L,P,Rangers,Delino DeShields,1B,1,,,Jose Abreu,,,,
+2019-06-22,Dodgers,Hyun-Jin Ryu,L,P,Rockies,Ian Desmond,1B,,Joc Pederson,1B,Chris Taylor,,,,
+2019-06-22,Mariners,Tommy Milone,L,P,Orioles,Jonathan Villar,2B,1,,,Dee Gordon,,,,
+2019-06-22,Rockies,Peter Lambert,R,P,Dodgers,Matt Beaty,2B,1,,,Ryan McMahon,,,,
+2019-06-23,Cubs,Victor Caratini,R,C,Mets,Pete Alonso,1B,1,,,Anthony Rizzo,,,,
+2019-06-23,Indians,Zach Plesac,R,P,Tigers,JaCoby Jones,1B,1,,,Bobby Bradley,,,,
+2019-06-25,Angels,Andrew Heaney,L,P,Reds,Jose Peraza,1B,,Albert Pujols;Luis Rengifo,1B;SS,Andrew Heaney,,,,
+2019-06-25,BlueJays,Clayton Richard,L,P,Yankees,Aaron Hicks,1B,1,,,Rowdy Tellez,,,,
+2019-06-25,Braves,Brain McCann,R,C,Cubs,Javier Baez,3B,1,,,Josh Donaldson,,"after that, russell was also out at 3B by Dansby Swanson ; 2-5-6 DP",,
+2019-06-26,Phillies,Jose Alvarez,L,P,Mets,Dominic Smith,1B,,Rhys Hoskins,1B,Cesar Hernandez,,,,
+2019-06-26,Yankees,David Hale,R,P,BlueJays,Randal Grichuk,1B,1,,,Luke Voit,,good move,,
+2019-06-27,Athletics,Wei-Chung Wang,L,P,Angels,Luis Rengifo,1B,,Matt Olson,1B,Marcus Semien,,,,
+2019-06-28,Cubs,Kyle Ryan,L,P,Reds,Scooter Gennett,1B,1,,,Anthony Rizzo,https://twitter.com/MLBReplays/status/1144829331895726085,good reaction,,
+2019-06-28,Padres,Eric Lauer,L,P,Cardinals,Marcell Ozuna,1B,1,,,Eric Hosmer,https://twitter.com/MLBReplays/status/1144834306818433024,,,
+2019-06-28,WhiteSox,Ross Detwiler,L,P,Twins,LaMonte Wade,1B,,Jose Abreu,1B,Yolmer Sanchez,,,,
+2019-06-29,Indians,Zach Plesac,R,P,Orioles,Jonathan Villar,1B,1,,,Bobby Bradley,,terrific,,
+2019-06-29,Nationals,Austin Voth,R,P,Tigers,JaCoby Jones,1B,,Howie Kendrick;Brian Dozier,1B;2B,Austin Voth,,,,
+2019-06-29,Royals,Homer Bailey,R,P,BlueJays,Eric Sogard,2B,1,,,Humberto Arteaga,,,,
+2019-06-30,BlueJays,Luke Maile,R,C,Royals,Nicky Lopez,3B,,Eric Sogard,3B,Luke Maile,,,,
+2019-06-30,Indians,Shane Bieber,R,P,Orioles,Dwight Smith Jr.,1B,1,,,Carlos Santana,https://twitter.com/MLBReplays/status/1145393869531557889,real quick,,
+2019-06-30,Pirates,Elias Diaz,R,C,Brewers,Keston Hiura,3B,,Colin Moran,3B,Elias Diaz,,,,
+2019-07-01,Orioles,Pedro Severino,R,C,Rays,Brendan McKay,2B,1,,,Jonathan Villar,,throw and catch good,,
+2019-07-02,Nationals,Patrick Corbin,L,P,Marlins,Miguel Rojas,1B,,Ryan Zimmerman;Howie Kendrick;Ryan Zimmerman,1B;2B;1B,Howie Kendrick,,,,
+2019-07-02,Pirates,Joe Musgrove,R,P,Cubs,Jason Heyward,1B,1,,,Josh Bell,,,,
+2019-07-03,Athletics,Josh Phegley,R,C,Twins,Ehire Adrianza,3B,,Matt Chapman,3B,Yusmeiro Petit,,,1,
+2019-07-03,Cubs,Pedro Strop,R,P,Pirates,Starling Marte,1B,1,,,Anthony Rizzo,,really quick!,,
+2019-07-03,Marlins,Jarlin Garcia,L,P,Nationals,Victor Robles,1B,,Garrett Cooper,1B,Starlin Castro,,,,
+2019-07-03,Orioles,Chance Sisco,R,C,Rays,Guillermo Heredia,3B,,Rio Ruiz,3B,John Means,,,,
+2019-07-04,Angels,Taylor Cole,R,P,Rangers,Danny Santana,2B,1,,,Luis Rengifo,,,1,4B
+2019-07-04,Athletics,Tanner Anderson,R,P,Twins,Nelson Cruz,1B,1,,,Matt Olson,,Tanner ran to runner and tossed,0,3T
+2019-07-05,Athletics,Brett Anderson,L,P,Mariners,Mallex Smith,1B,,Matt Olson,1B,Marcus Semien,,,0,6B
+2019-07-05,Nationals,Matt Grace,L,P,Royals,Billy Hamilton,1B,,Ryan Zimmerman,1B,Brian Dozier,,,0,8T
+2019-07-06,Angels,Dustin Garneau,R,C,Astros,Jose Altuve,1B,1,,,Justin Bour,,,1,7B
+2019-07-06,BlueJays,Clayton Richard,L,P,Orioles,Anthony Santander,1B,,Justin Smoak;Cavan Biggio,1B;2B,Clayton Richard,,,2,2T
+2019-07-06,Rays,Blake Snell,L,P,Yankees,DJ LeMahieu,1B,,Nate Lowe,1B,Willy Adames,,,1,1T
+2019-07-07,Twins,Devin Smeltzer,L,P,Rangers,Danny Santana,1B,,Miguel Sano,1B,Jonathan Schoop,,,2,4T
+2019-07-12,Indians,Mike Clevinger,R,P,Twins,Max Kepler,1B,1,,,Carlos Santana,,real quick,2,3T
+2019-07-12,Reds,Curt Casali,R,C,Rockies,Tony Wolters,1B,1,,,Joey Votto,https://twitter.com/MLBReplays/status/1149895497919991809,DP;so,0,7B
+2019-07-12,Rockies,Tony Wolters,R,C,Reds,Jesse Winker,3B,1,,,Nolan Arenado,https://twitter.com/MLBReplays/status/1149899565002362880,DP;so,1,6T
+2019-07-12,Tigers,Blaine Hardy,L,P,Royals,Adalberto Mondesi,1B,,Brandon Dixon,1B,Jordy Mercer,,,1,7B
+2019-07-13,BlueJays,Clayton Richard,L,P,Yankees,Didi Gregorius,1B,1,,,Rowdy Tellez,,precision,0,2B
+2019-07-13,DBacks,TJ McFarland,L,P,Cardinals,Yairo Munoz,1B,,Christian Walker,1B,Nick Ahmed,,ahmed catch was impressive,1,6B
+2019-07-13,Giants,Buster Posey,R,C,Brewers,Lorenzo Cain,3B,1,,,Evan Longoria,,he pumbled and made,2,1B
+2019-07-13,Rangers,Chris Martin,R,P,Astros,Myles Straw,1B,1,,,Ronald Guzman,,great timing,2,9T
+2019-07-14,DBacks,Zack Greinke,R,P,Cardinals,Kolten Wong,1B,,Christian Walker,1B,Nick Ahmed,,true veteran,0,2B
+2019-07-14,Athletics,Brett Anderson,L,P,WhiteSox,Yolmer Sanchez,1B,,Matt Olson,1B,Franklin Barreto,,good timing,2,5T
+2019-07-15,Yankees,Gary Sanchez,R,C,Rays,Willy Adames,2B,1,,,Gleyber Torres,,,0,5T
+2019-07-15,Pirates,Jacob Stallings,R,C,Cardinals,Matt Carpenter,1B,1,,,Josh Bell,,great reaction,0,5B
+2019-07-16,Indians,Zach Plesac,R,P,Tigers,Victor Reyes,1B,1,,,Carlos Santana,,woooow,0,1T
+2019-07-16,DBacks,Alex Young,L,P,Rangers,Shin-Soo Choo,1B,1,,,Jake Lamb,,,2,3B
+2019-07-16,Rockies,Jake McGee,L,P,Giants,Kevin Pillar,1B,,Daniel Murphy,1B,Trevor Story,,,1,7T
+2019-07-17,Cubs,Victor Caratini,R,C,Reds,Jose Iglesias,1B,1,,,Anthony Rizzo,https://twitter.com/MLBReplays/status/1151608549207945223,Rizzo's reaction also great,2,7T
+2019-07-17,Nationals,Yan Gomes,R,C,Orioles,Rio Ruiz,1B,1,,,Matt Adams,,he just got CS from the former runner,1,3B
+2019-07-18,Giants,Williams Jerez,L,P,Mets,Amed Rosario,1B,,Brandon Belt,1B,Donovan Solano,,,2,16T
+2019-07-19,Nationals,Patrick Corbin,L,P,Braves,Ronald Acuña Jr.,1B,,Ryan Zimmerman,1B,Trea Turner,,,1,3B
+2019-07-19,Angels,Taylor Cole,R,P,Mariners,Mallex Smith,2B,1,,,Andrelton Simmons,,,0,1B
+2019-07-20,Athletics,Ryan Buchter,L,P,Twins,Max Kepler,1B,,Matt Olson;Marcus Semien,1B;SS,Ryan Buchter,,,2,7B
+2019-07-20,Indians,Roberto Perez,R,C,Royals,Cam Gallagher,2B,,Francisco Lindor,SS,Jose Ramirez,,,0,8T
+2019-07-20,Angels,Justin Anderson,R,P,Mariners,Mallex Smith,1B,1,,,Albert Pujols,,catcher's reaction LMAO,2,7B
+2019-07-21,Angels,Dillon Peters,L,P,Mariners,Mallex Smith,1B,,Albert Pujols,1B,Andrelton Simmons,,,1,3B
+2019-07-23,Nationals,Wander Suero,R,P,Rockies,Ryan McMahon,1B,1,,,Matt Adams,,wow,1,7T
+2019-07-24,Rangers,Mike Minor,L,P,Mariners,Mallex Smith,1B,,Logan Forsythe,1B,Rougned Odor,,,2,3B
+2019-07-24,Giants,Stephen Vogt,R,C,Cubs,Albert Almora Jr.,1B,1,,,Brandon Belt,,,1,2T
+2019-07-25,Royals,Mike Montgomery,L,P,Indians,Jose Ramirez,2B,1,,,Whit Merrifield,,good,1,4T
+2019-07-26,Athletics,Ryan Buchter,L,P,Rangers,Rougned Odor,1B,,Matt Olson;Jurickson Profar;Matt Olson,1B;2B;1B,Marcus Semien,,,1,7T
+2019-07-26,Angels,Nick Tropeano,R,P,Orioles,Jonathan Villar,1B,1,,,Matt Thaiss,,terrific,0,4T
+2019-07-27,Angels,Dillon Peters,L,P,Orioles,Richie Martin,1B,,Albert Pujols,1B,Luis Rengifo,,,2,2T
+2019-07-28,RedSox,Colten Brewer,R,P,Yankees,Cameron Maybin,1B,1,,,Mitch Moreland,,terrific,1,6T
+2019-07-30,Phillies,Drew Smyly,L,P,Giants,Kevin Pillar,1B,,Rhys Hoskins,1B,Cesar Hernandez,,,1,2T
+2019-07-30,RedSox,Christian Vazquez,R,C,Rays,Matt Duffy,1B,1,,,Mitch Moreland,,good recovery by chris,0,1T
+2019-07-30,Dodgers,Julio Urias,L,P,Rockies,Trevor Story,1B,,Tyler White,1B,Kristopher Negron,,,1,1B
+2019-08-01,Braves,Max Fried,L,P,Reds,Nick Senzel,1B,,Freddie Freeman,1B,Johan Camargo,,,1,6T
+2019-08-02,Twins,Lewis Thorpe,L,P,Royals,Humberto Arteaga,2B,,Jorge Polanco,SS,Miguel Sano,,sloppy running,1,6T
+2019-08-02,Dodgers,Will Smith,R,C,Padres,Francisco Mejia,2B,1,,,Corey Seager,,,1,5T
+2019-08-03,Angels,Felix Pena,R,P,Indians,Yasiel Puig,1B,1,,,Albert Pujols,https://twitter.com/kim_xxyn/status/1157912114595426309,,0,2B
+2019-08-03,Tigers,Blaine Hardy,L,P,Rangers,Rougned Odor,1B,,Jeimer Candelario,1B,Niko Goodrum,,,1,8B
+2019-08-03,Giants,Tony Watson,L,P,Rockies,Ian Desmond,1B,,Brandon Belt,1B,Brandon Crawford,https://twitter.com/kim_xxyn/status/1157907594943451137,,1,8B
+2019-08-18,Angels,Griffin Canning,R,P,WhiteSox,Tim Anderson,2B,1,,,Wilfredo Tovar,,,,
+2019-08-18,Braves,Max Fried,L,P,Dodgers,AJ Pollock,1B,1,,,Freddie Freeman,,,,
+2019-08-18,Phillies,JT Realmuto,R,C,Padres,Luis Urias,2B,,Jean Segura;Sean Rodriguez,SS;3B,Jean Segura,,,,
+2019-08-18,Rays,Travis d'Arnaud,R,C,Tigers,Jake Rogers,1B,1,,,Eric Sogard,,he fumbled the ball,,
+2019-08-19,DBacks,Zac Gallen,R,P,Rockies,McMahon,1B,1,,,Christian Walker,https://twitter.com/kim_xxyn/status/1163809538799128576,,,
+2019-08-20,Pirates,Clay Holmes,R,P,Nationals,Eaton,1B,1,,,Josh Bell,https://twitter.com/kim_xxyn/status/1164152817818333184,,,
+2019-08-20,RedSox,Brian Johnson,L,P,Phillies,Kingery,1B,1,,,Mitch Moreland,https://twitter.com/kim_xxyn/status/1164155133103493121,,,
+2019-08-21,Royals,Mike Montgomery,L,P,Orioles,DJ Stewart,2B,,Ryan O'Hearn,1B,Whit Merrifield,,,,
+2019-08-23,Indians,Zach Plesac,R,P,Royals,Brett Phillips,1B,1,,,Carlos Santana,,,,
+2019-08-24,Cubs,Jose Quintana,L,P,Nationals,Victor Robles,1B,,Anthony Rizzo,1B,Tony Kemp,,,,
+2019-08-24,RedSox,Nathan Eovaldi,R,P,Padres,Greg Garcia,1B,1,,,Mitch Moreland,,great,,
+2019-08-24,Royals,Scott Barlow,R,P,Indians,Yasiel Puig,1B,1,,,Ryan O'Hearn,,,,
+2019-08-26,Braves,Chris Martin,R,P,Rockies,Trevor Story,1B,,Freddie Freeman,1B,Ozzie Albies,,,,
+2019-08-27,Mets,Chris Mazza,R,P,Cubs,Javier Baez,3B,,Amed Rosario,SS,Todd Frazier,,,,
+2019-08-28,Athletics,Ryan Buchter,L,P,Royals,Meibrys Viloria,1B,1,,,Matt Olson,,great,,
+2019-08-28,RedSox,Josh Taylor,L,P,Rockies,Trevor Story,2B,,Mitch Moreland,1B,Xander Bogaerts,,,,
+2019-08-30,Angels,Trevor Cahill,R,P,RedSox,Jackie Bradley Jr.,2B,,Andrelton Simmons,SS,Marco Hernandez,,,,
+2019-08-30,Astros,Wade Miley,L,P,BlueJays,Cavan Biggio,1B,1,,,Yuli Gurriel,,great,,
+2019-08-30,Brewers,Manny Pina,R,C,Cubs,David Bote,2B,1,,,Orlando Arcia,https://twitter.com/kim_xxyn/status/1167815213866835968,Terrific,,
+2019-08-30,Indians,Shane Bieber,R,P,Rays,Eric Sogard,1B,1,,,Carlos Santana,,great,,
+2019-08-30,Royals,Eric Skoglund,L,P,Orioles,Hanser Alberto,2B,,Cheslor Cuthbert,1B,Nicky Lopez,,,,
+2019-08-30,Twins,Kyle Gibson,R,P,Tigers,Willi Castro,1B,1,,,CJ Cron,,great,,
+2019-08-31,Giants,Logan Webb,R,P,Padres,Manuel Margot,1B,,Brandon Belt;Mauricio Dubon;Logan Webb,1B;SS;P,Donovan Solano,,,,
+2019-08-31,Rangers,Jose Trevino,R,C,Mariners,Dylan Moore,3B,,Isiah Kiner-Falefa,3B,Jose Trevino,https://twitter.com/kim_xxyn/status/1168160876475478016,great,,
+2019-09-01,Rockies,Jeff Hoffman,R,P,Pirates,Starling Marte,1B,,Ryan McMahon;Trevor Story;Ryan McMahon;Trevor Story;Jeff Hoffman,1B;SS;1B;SS;P,Pat Valaika,,good,,
+2019-09-02,Cubs,Kyle Hendricks,R,P,Mariners,Mallex Smith,1B,1,,,Anthony Rizzo,,,,
+2019-09-02,Phillies,Drew Smyly,L,P,Reds,Nick Senzel,1B,,Rhys Hoskins,1B,Scott Kingery,,,,
+2019-09-03,Brewers,Jordan Lyles,R,P,Astros,Zack Greinke,1B,1,,,Eric Thames,,,,
+2019-09-03,Nationals,Wander Suero,R,P,Mets,Luis Guillorme,1B,1,,,Matt Adams,,,,
+2019-09-05,Athletics,Brett Anderson,L,P,Angels,Justin Upton,1B,,Matt Olson,1B,Marcus Semien,,,,
+2019-09-05,Tigers,Matthew Boyd,L,P,Royals,Adalberto Mondesi,1B,,Ryan McBroom,1B,Ronny Rodriguez,,,,
+2019-09-06,Nationals,Tanner Rainey,R,P,Braves,Billy Hamilton,2B,1,,,Trea Turner,,Terrific,,
+2019-09-06,Nationals,Yan Gomes,R,C,Braves,Dansby Swanson,2B,,Trea Turner,SS,Anthony Rendon,,Terrific,,
+2019-09-06,Twins,Zach Littell,R,P,Indians,Jake Bauers,1B,1,,,CJ Cron,,Terrific,,
+2019-09-07,Braves,Julio Teheran,R,P,Nationals,Trea Turner,1B,1,,,Freddie Freeman,,,,
+2019-09-08,Pirates,Jacob Stallings,R,C,Cardinals,Jack Flaherty,1B,1,,,Jose Osuna,,Terrific,,
+2019-09-08,Rockies,Peter Lambert,R,P,Padres,Mike Myers,2B,1,,,Trevor Story,,Terrific,,
+2019-09-09,Angels,Luke Bard,R,P,Indians,Jason Kipnis,1B,1,,,Albert Pujols,,running and deliver,,
+2019-09-11,Cubs,James Norwood,R,P,Padres,Manny Machado,1B,1,,,Anthony Rizzo,,,,
+2019-09-11,Phillies,Mike Morin,R,P,Braves,Billy Hamilton,1B,1,,,Rhys Hoskins,,Terrific,,
+2019-09-11,Rangers,Ian Gibaut,R,P,Rays,Johnny Davis,1B,1,,,Ronald Guzman,,,,
+2019-09-11,Rangers,Jose Trevino,R,C,Rays,Ji-Man Choi,2B,1,,,Elvis Andrus,,,,
+2019-09-11,Rangers,Jose Trevino,R,C,Rays,Matt Duffy,3B,,Nick Solak;Yohander Mendez,3B;P,Elvis Andrus,,,,
+2019-09-11,Rangers,Yohander Mendez,L,P,Rays,Guillermo Heredia,1B,1,,,Ronald Guzman,,Guzman's effort,,
+2019-09-13,Mariners,Yusei Kikuchi,L,P,WhiteSox,Adam Engel,1B,,Austin Nola,1B,JP Crawford,,,,
+2019-09-15,Astros,Wade Miley,L,P,Royals,Adalberto Mondesi,1B,,Yuli Gurriel,1B,Aledmys Diaz,,,,
+2019-09-16,Cubs,Cole Hamels,L,P,Reds,Jose Peraza,1B,,Victor Caratini,1B,Nico Hoerner,,,,
+2019-09-16,Twins,Jose Berrios,R,P,WhiteSox,Yoan Moncada,1B,1,,,Marwin Gonzalez,,good,,
+2019-09-17,Orioles,Richard Bleier,L,P,BlueJays,Danny Jansen,1B,,Chris Davis,1B,Jonathan Villar,,,,
+2019-09-17,RedSox,Brandon Workman,R,P,Giants,Mauricio Dubon,1B,1,,,Mitch Moreland,,1B running tag,,
+2019-09-17,Royals,Jorge Lopez,R,P,Athletics,Seth Brown,1B,1,,,Cheslor Cuthbert,https://twitter.com/MLBReplays/status/1174183682925649921,quick,,
+2019-09-19,Pirates,Joe Musgrove,R,P,Mariners,Shed Long,1B,1,,,Jose Osuna,,,,
+2019-09-20,Athletics,Mike Fiers,R,P,Rangers,Delino DeShields,1B,1,,,Matt Olson,,,,
+2019-09-20,Pirates,Jacob Stallings,R,C,Brewers,Orlando Arcia,2B,1,,,Kevin Newman,,,,
+2019-09-21,BlueJays,Thomas Pannone,L,P,Yankees,Brett Gardner,1B,1,,,Brandon Drury,https://twitter.com/MLBReplays/status/1175508554888949761,really close,1,5B
+2019-09-21,RedSox,Josh Taylor,L,P,Rays,Joey Wendle,1B,,Mitch Moreland,1B,Xander Bogaerts,,,2,6B
+2019-09-21,Tigers,Jake Rogers,R,C,WhiteSox,Adam Engel,3B,1,,,Dawel Lugo,,,2,6T
+2019-09-21,Orioles,Tanner Scott,L,P,Mariners,Tim Lopes,1B,,Trey Mancini,1B,Jonathan Villar,,,2,13T
+2019-09-22,WhiteSox,Reynaldo Lopez,R,P,Tigers,Brandon Dixon,1B,1,,,Jose Abreu,,,2,4B
+2019-08-04,Twins,Devin Smeltzer,L,P,Royals,Nicky Lopez,1B,1,,,CJ Cron,,,1,3T
+2019-08-04,Rangers,Jeff Mathis,R,C,Tigers,Miguel Cabrera,1B,1,,,Danny Santana,,,2,1T
+2019-08-05,Angels,Kevan Smith,R,C,Reds,Jose Peraza,3B,,Matt Thaiss;Taylor Cole,3B;P,David Fletcher,https://twitter.com/kim_xxyn/status/1158689070509256704,,1,1B
+2019-08-05,BlueJays,Reese McGuire,R,C,Rays,Michael Brosseau,2B,1,,,Cavan Biggio,,,1,7B
+2019-08-06,Tigers,Daniel Norris,L,P,WhiteSox,Ryan Goins,1B,1,,,John Hicks,https://twitter.com/kim_xxyn/status/1159074982594400257,,0,4T
+2019-08-06,Angels,Jose Suarez,L,P,Reds,Jose Iglesias,1B,,Albert Pujols,1B,David Fletcher,https://twitter.com/kim_xxyn/status/1159079442393657346,LMAO,0,4B
+2019-08-06,Rays,Ryan Yabrough,L,P,BlueJays,Bo Bichette,1B,,Jesus Aguilar,1B,Willy Adames,https://twitter.com/kim_xxyn/status/1159081326382743552,,0,3T
+2019-08-06,Giants,Conner Menez,L,P,Nationals,Trea Turner,1B,,Brandon Belt;Brandon Crawford,1B;SS,Conner Menez,https://twitter.com/kim_xxyn/status/1159087348551843840,decent pickoff,1,1T
+2019-09-24,Cubs,Kyle Hendricks,R,P,Pirates,Kevin Newman,1B,1,,,Anthony Rizzo,,wow,2,6B
+2019-09-24,Yankees,Stephen Tarpley,L,P,Rays,Tommy Pham,1B,,DJ LeMathieu,1B,Didi Gregorius,,,2,5B
+2019-09-25,Yankees,Kyle Higashioka,R,C,Rays,Joey Wendle,3B,,,,,,,,
+2019-08-11,Marlins,Jorge Alfaro,R,C,Braves,Ozzie Albies,2B,,,,,,,,
+2019-08-11,Cardinals,Tyler Webb,,P,Pirates,Adam Frazier,1B,,,,,,,,
+2019-08-12,Rangers,Jose Trevino,R,C,BlueJays,Teoscar Hernandez,2B,,,,,,,,
+2019-08-12,Rockies,Paul Lambert,R,P,DBacks,Ketel Marte,1B,,,,,,,,
+2019-08-12,Angels,Jose Suarez,L,P,Pirates,Starling Marte,1B,,,,,,,,
+2019-08-13,Astros,Chris Devenski,,P,WhiteSox,Tim Anderson,1B,,,,,,,,
+2019-08-14,Tigers,Jake Rogers,R,C,Mariners,Mallex Smith,1B,,,,,,,,
+2019-08-14,Angels,Dillon Peters,L,P,Pirates,Kevin Newman,1B,,,,,,,,
+2019-08-15,Cardinals,Michael Wacha,,P,Reds,Phillip Ervin,1B,,,,,,,,
+2019-08-15,DBacks,Alex Young,L,P,Giants,Kevin Pillar,1B,,,,,,,,
+2019-08-16,Giants,Buster Posey,R,C,DBacks,Nick Ahmed,2B,,,,,,,,
+2019-09-26,Phillies,Jason Vargas,L,P,Nationals,Victor Robles,2B,,,,,,,,
+2019-09-27,Phillies,Andrew Knapp,R,C,Marlins,Miguel Rojas,1B,1,,,Rhys Hoskins,https://twitter.com/MLBReplays/status/1177760710140542976,,2,4T
+2019-09-27,Orioles,Richard Bleier,L,P,RedSox,Xander Bogaerts,1B,1,,,Trey Mancini,https://twitter.com/MLBReplays/status/1177783142800855041,terrific eyefake,0,9B
+2019-09-27,Angels,Jake Jewell,R,P,Astros,Kyle Tucker,1B,1,,,Albert Pujols,,,1,5T
+2019-09-29,Braves,Mike Soroka,R,P,Mets,Amed Rosario,1B,,,,,,,,
